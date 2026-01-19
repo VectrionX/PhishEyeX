@@ -1,0 +1,5 @@
+{
+  "name": "PhishEyeX",
+  "description": "A high-fidelity email threat analyzer for SOC analysts.",
+  "requestFramePermissions": []
+}
