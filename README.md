@@ -91,6 +91,9 @@ Features and detection logic evolve as threat landscapes change.
 - **Issues:** Use [GitHub Issues](https://github.com/SuperMag99/phisheyex/issues).
 - **Security:** Refer to [SECURITY.md](./SECURITY.md).
 
+## 🧭 Security and Vulnerabilities
+
+- **Security:** Refer to [SECURITY.md](./SECURITY.md).
 ## ⭐ Support the Project
 If this project helps your SOC team, consider giving it a ⭐.
 
