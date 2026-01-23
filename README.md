@@ -97,10 +97,21 @@ If this project helps your SOC team, consider giving it a ⭐.
 ---
 Maintained by security professionals, for security professionals.
 
-## 📄 License
-MIT License
+## License Summary
 
-Copyright (c) 2025 PhishEyeX
+This project is licensed under a **Non-Commercial Attribution License**. Key points:
+
+1. ✅ **Free to use for personal, educational, and research purposes.**
+2. ✅ **Any modification or derivative work must credit Mohammad Ali Ghanem, the original creator.**
+3. ❌ **Commercial use, sale, licensing, or any use intended to generate revenue is strictly prohibited without prior written permission.**
+4. ⚠️ **No warranty**: Use at your own risk.
+5. ⚖️ **Legal protection**: Unauthorized commercial use or failure to credit the author may result in legal action.
+
+For full license details, see the `LICENSE` file. [LICENSE.md](./LICENSE.md).
+
+---
+
+**Contact the author for commercial licensing or permissions:** 
 
 ## 👤 Maintainer
 - **🔗 GitHub:** [SuperMag99](https://github.com/SuperMag99)
