@@ -94,15 +94,12 @@ Features and detection logic evolve as threat landscapes change.
 ## ⭐ Support the Project
 If this project helps your SOC team, consider giving it a ⭐.
 
----
-Maintained by security professionals, for security professionals.
-
 ## License Summary
 
 This project is licensed under a **Non-Commercial Attribution License**. Key points:
 
 1. ✅ **Free to use for personal, educational, and research purposes.**
-2. ✅ **Any modification or derivative work must credit Mohammad Ali Ghanem, the original creator.**
+2. ✅ **Any modification or derivative work must credit to the author.
 3. ❌ **Commercial use, sale, licensing, or any use intended to generate revenue is strictly prohibited without prior written permission.**
 4. ⚠️ **No warranty**: Use at your own risk.
 5. ⚖️ **Legal protection**: Unauthorized commercial use or failure to credit the author may result in legal action.
