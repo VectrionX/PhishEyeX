@@ -107,7 +107,7 @@ This project is licensed under a **Non-Commercial Attribution License**. Key poi
 4. ⚠️ **No warranty**: Use at your own risk.
 5. ⚖️ **Legal protection**: Unauthorized commercial use or failure to credit the author may result in legal action.
 
-For full license details, see the `LICENSE` file. [LICENSE.md](./LICENSE.md).
+For full license details, see the `LICENSE` file. [LICENSE](./LICENSE).
 
 ---
 
