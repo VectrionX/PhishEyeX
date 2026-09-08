@@ -35,6 +35,30 @@ CI runs these checks for every push and pull request. The test suite covers the 
 
 ## Safety and privacy
 
-Use sanitized samples where possible. The application intentionally does not upload, persist, execute, decode, or render attachments. Treat the extracted indicators as analyst evidence, not a threat verdict.
+Use sanitized samples where possible. The application intentionally does not upload, persist, execute, decode, or render attachments. Treat extracted indicators as analyst evidence, not a threat verdict. Do not analyze live malware on production systems; use isolated, approved environments for any sandbox work.
 
-See [SECURITY.md](./SECURITY.md) for reporting security issues.
+## Repository hygiene
+
+Sensitive files are excluded via `.gitignore`. Email samples used in tests should be sanitized of PII. No malware binaries are stored in this repository. See [SECURITY.md](./SECURITY.md) for reporting security issues.
+
+## Disclaimer
+
+This project is provided "as is" without warranty. The authors are not responsible for misuse or damages. It is intended for defensive cybersecurity purposes only.
+
+## Security and vulnerabilities
+
+Refer to [SECURITY.md](./SECURITY.md) for security reporting and vulnerability information.
+
+## Project status
+
+Active development. Features and detection logic evolve as threat landscapes change.
+
+## Support
+
+- Issues: [GitHub Issues](https://github.com/SuperMag99/phisheyex/issues)
+- Maintainer: [SuperMag99](https://github.com/SuperMag99)
+- LinkedIn: [mag99](https://www.linkedin.com/in/mag99/)
+
+## License summary
+
+This project is licensed under a Non-Commercial Attribution License. It is free for personal, educational, and research use; modifications and derivatives must credit the author; commercial use requires prior written permission; and it is provided without warranty. See [LICENSE](./LICENSE) for full details.
