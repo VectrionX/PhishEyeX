@@ -10,7 +10,7 @@
     "typecheck": "tsc --noEmit",
     "build": "vite build",
     "preview": "vite preview",
-    "audit": "npm audit --audit-level=high"
+    "audit": "npm audit --omit=dev --audit-level=high"
   },
   "dependencies": {
     "lucide-react": "0.468.0",
